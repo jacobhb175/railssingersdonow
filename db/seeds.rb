@@ -1,3 +1,17 @@
+Singers.create(name:"Pierre Trudeau",
+  age: 80,
+  genre: "Canadian",
+  netWorth: 120000000,
+  numberOfAlbums: 0),
+(name:"Justin Bieber",
+    age: 25,
+    genre: "Pop",
+    netWorth: 26500000000,
+    numberOfAlbums: 9)
+
+
+
+
 # This file should contain all the record creation needed to seed the database with its default values.
 # The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
 #
